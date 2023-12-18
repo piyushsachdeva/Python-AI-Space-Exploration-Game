@@ -4,7 +4,7 @@ Welcome to the Python-based AI Space Simulator Game! This interactive text-based
 
 ## Architectural Diagram 🏛️
 
-![Diagram](architecture-diagram.png)
+![architecture-diagram](https://github.com/piyushsachdeva/Python-AI-Space-Exploration-Game/assets/40286378/41d13d17-6253-4f23-9f93-acb6153dbd07)
 
 
 ## Prerequisites
