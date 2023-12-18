@@ -1,4 +1,4 @@
-# Python Based AI Space Simulator Game
+# Python-Based AI Space Simulator Game
 
 Welcome to the Python-based AI Space Simulator Game! This interactive text-based adventure allows players to guide a space traveler named Nova on a quest to find the legendary Star Crystal. The game dynamically adapts to players' decisions, creating a branching narrative with various outcomes.
 
@@ -6,9 +6,6 @@ Welcome to the Python-based AI Space Simulator Game! This interactive text-based
 
 ![Diagram](architecture-diagram.png)
 
-## Code Explaination
-
-Please find the code explaination [here](Explaination.md).
 
 ## Prerequisites
 
@@ -28,7 +25,7 @@ pip3 install cassandra-driver openai langchain
 
 ### 2. Replace variables
 
-Replace the following variables in `tutorial.py` with your own values:
+Replace the following variables in `tutorial.py` with your values:
 
 - `OPENAI_API_KEY` with your OpenAI API Key.
 - `ASTRA_DB_KEYSPACE` with your Astra DB Keyspace.
