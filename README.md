@@ -4,7 +4,7 @@ Welcome to the Python-based AI Space Simulator Game! This interactive text-based
 
 ## Architectural Diagram 🏛️
 
-![Diagram](architecture-diagram.png)
+![Diagram](./architecture-diagram.png)
 
 
 ## Prerequisites
