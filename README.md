@@ -20,7 +20,7 @@ Before getting started, ensure you have the following:
 ### 1. Install dependencies
 
 ```bash
-pip3 install cassandra-driver openai langchain
+pip3 install cassandra-driver openai langchain cassio
 ```
 
 ### 2. Replace variables
